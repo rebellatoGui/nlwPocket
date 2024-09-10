@@ -37,9 +37,29 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 - Strings (Textos): " ", ' '
 - Number: 1, 2, 2.5
 - Function
+- Boolean: true, false
 
 ### Operadores:
 
 - Operadores de atribuição de valor (=)
+- Operadores de concatenação
 
-###
+#
+
+### Estrutura de dados:
+
+### Arrays:
+
+- Uma lista que contém qualquer tipo de dado
+
+### Objetos:
+
+- Atributos e métodos
+- Criação e manipulação de objetos
+- Acesso a propriedades de objetos
+
+### Function:
+
+- Criar, passar argumento
+- Executar
+- Named Function / Arrow Function
