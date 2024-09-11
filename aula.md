@@ -44,6 +44,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 - Operadores de atribuição de valor (=)
 - Operadores de concatenação
 - Operadores de comparação: ==, !=, 1 < 2, 2 >= 1
+- Operadores Rest/Spread: ...
 
 #
 
@@ -52,7 +53,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 ### Arrays:
 
 - Uma lista que contém qualquer tipo de dado
-- Métodos de array: push, find, forEach
+- Métodos de array: push, find, forEach, filter : HOF (Higher Order Functions)
 
 ### Objetos:
 
@@ -74,6 +75,8 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 - Switch
 - If/Else
+
+#
 
 ### Módulos em Node.js:
 
