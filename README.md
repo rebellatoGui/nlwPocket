@@ -19,7 +19,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de JavaScript
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Javascript
+- JavaScript
 - Node.js
 - Git e Github
 
