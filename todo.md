@@ -8,3 +8,4 @@ X - Marcar/Desmarcar metas realizadas
 X - Remover metas
 
 X - Sistema de mensagens
+X - Persistência de Dados
