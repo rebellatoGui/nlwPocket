@@ -1,7 +1,7 @@
 <h1 align="center">NLW Pocket 🚀</h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de Javascript.
+Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de JavaScript.
 </p>
 
 <p align="center">
@@ -25,7 +25,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O NLW Pocket é um evento gratuito promovido pela Rocketseat 🚀, focado no ensino de JavaScript de forma prática e direta. Este repositório contém todo o material desenvolvido durante o evento!
+O NLW Pocket é um evento gratuito promovido pela Rocketseat!! 🚀 <br>
+Focado no ensino de JavaScript de forma prática e direta. Este repositório contém todo o material desenvolvido durante o evento!
 
 ---
 
